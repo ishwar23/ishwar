@@ -1,3 +1,4 @@
 # ishwar
-This is my first repository
-My name is ishwar
+This is my first repository.
+<br>
+Auther - Ishwar Singh
